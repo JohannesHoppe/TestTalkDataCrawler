@@ -2,7 +2,7 @@
   "name": "TalkDataCrawler",
   "version": "0.0.0",
   "description": "TalkDataCrawler",
-  "main": "app.js",
+  "main": "start.js",
   "author": {
     "name": "Johannes",
     "email": ""
